@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nehadaga97
 - 👀 I’m interested in ...learning more skills to improve as a data analyst
 - 🌱 I’m currently learning Python and Tableau
-- 💞️ I’m looking to collaborate on Data Analysts
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me ...email at pnrk2007@gmail.com
 
 <!---
